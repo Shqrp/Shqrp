@@ -19,4 +19,8 @@ First of all, **welcome**! Second of all... I mean, I think I should list all my
  
  I hope you enjoyed my profile page as much as I did writing it!
  
- > Provided by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+#### Trophies
+
+![Shqrp's GitHub trophies](https://github-profile-trophy.vercel.app/?username=Shqrp)
+
+ > SVGs provided by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) and [GitHub profile trophy](https://github.com/ryo-ma/github-profile-trophy)
