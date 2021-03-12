@@ -1,6 +1,6 @@
 ### Hey there, I'm Shqrp!
 
-![Shqrp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shqrp&show_icons=true&include_all_commits=true&count_private=true&theme=vue)
+![Metrics](https://metrics.lecoq.io/Shqrp?template=classic&activity=1&introduction=1&languages=1&isocalendar=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&introduction.title=true&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FRome)
 
 _Yes, I'm talking to you, you visiting my profile..._
 
@@ -23,4 +23,4 @@ First of all, **welcome**! Second of all... I mean, I think I should list all my
 
 ![Shqrp's GitHub trophies](https://github-profile-trophy.vercel.app/?username=Shqrp)
 
- > SVGs provided by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) and [GitHub profile trophy](https://github.com/ryo-ma/github-profile-trophy)
+ > SVGs provided by [GitHub Metrics](https://github.com/lowlighter/metrics) and [GitHub profile trophy](https://github.com/ryo-ma/github-profile-trophy)
